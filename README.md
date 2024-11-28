@@ -2,4 +2,4 @@
 
 hello
 
-Go
+GO
